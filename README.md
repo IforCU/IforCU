@@ -1,3 +1,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zksre)](https://solved.ac/zksre/)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75685925-3f3b-43ec-ad5a-e816ff487d1c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Badge](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/75685925-3f3b-43ec-ad5a-e816ff487d1c/public_url)
